@@ -30,7 +30,7 @@ I'm 24 years old. I'm from jordan.I've graduation from Jordan University Of Scie
 * Break the big thing into smaller things to be **Under Estimation**.
 * Refactoring should be the first option.
 * Dont't write the **Comments** every where and you must have **Documentation**.
-
+-- Anas
 
 *[You can read more of my articles at](https://huseyinpolatyuruk.com/fundamentals-of-a-good-developer-mindset/)
 
