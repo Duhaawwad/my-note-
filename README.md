@@ -31,7 +31,6 @@ I'm 24 years old. I'm from jordan.I've graduation from Jordan University Of Scie
 * Refactoring should be the first option.
 * Dont't write the **Comments** every where and you must have **Documentation**.
 
-
-*[You can read more of my articles at](https://huseyinpolatyuruk.com/fundamentals-of-a-good-developer-mindset/)
+[You can read more of my articles at](https://huseyinpolatyuruk.com/fundamentals-of-a-good-developer-mindset/)
 
 
